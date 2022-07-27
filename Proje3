@@ -3,8 +3,8 @@ Proje 3
 starts with  7 
 than comes 5 it takes the left b'coz its smaller,                                      7
 than comes 1 its smaller than 5 it goes left again.                         5          -          8
-8 is bigger than 7 it goes to right side                                  1 - 6                    -         9
-3 is bigger than 1 takes right side.                                 0 -  3
+8 is bigger than 7 it goes to right side                               1    - 6                    -         9
+3 is bigger than 1 takes right side.                                0  -  3
 6 is bigger than 5 takes right.                                         2 - 4
 0 is smaller than 1 takes left 
 9 is bigger than 8 goes to the right side of 8 
